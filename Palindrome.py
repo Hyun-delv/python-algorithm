@@ -31,11 +31,3 @@ def Palimdrome(s: str) ->bool:
 
 
 
-    
-
-valid = input("입력 >>")
-
-print(Palimdrome(valid)) 
-
-
-
